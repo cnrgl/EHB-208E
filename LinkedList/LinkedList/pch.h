@@ -9,5 +9,7 @@
 
 // önceden derlemek istediğiniz üst bilgileri buraya ekleyin
 #include "framework.h"
+#include <cstdarg>
+// va_list list; look at the ellipse definition in function --> cstdarg
 
 #endif //PCH_H
